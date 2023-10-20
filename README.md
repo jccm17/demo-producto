@@ -64,4 +64,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Swagger UI
-Access to documentation API: htts:server-url/api/documentation
+Access to documentation API: http://server-url/api/documentation
